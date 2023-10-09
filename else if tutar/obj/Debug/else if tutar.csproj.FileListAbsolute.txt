@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\bin\Debug\else if tutar.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\bin\Debug\else if tutar.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\bin\Debug\else if tutar.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else if tutar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else if tutar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else_if_tutar.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else_if_tutar.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else if tutar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else if tutar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else if tutar.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\else if tutar\else if tutar\obj\Debug\else if tutar.pdb
